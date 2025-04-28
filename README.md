@@ -8,6 +8,8 @@ This project uses a real-world dataset to detect fraudulent credit card transact
 - Model Building (Logistic Regression)
 - Evaluation with Confusion Matrix, ROC-AUC
 - Class Imbalance Handling
+- Outlier Detection
+- Anamoly Detection
 
 ## 📊 Tools Used
 Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Google Colab
